@@ -1,0 +1,26 @@
+/* .background {
+    
+    background-image: url('');
+    height: 400px;
+    width: 100%;
+} */
+*{
+    margin: 0;    
+}
+.background {
+    height: 500px;
+    width: 100%;
+    
+}
+
+.background img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}                        
+.infor{
+    color: rgb(224, 213, 213)
+}
+b{
+    font-size: 20px;
+}
